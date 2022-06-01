@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Nana7mij"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
@@ -27,8 +27,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nana7mij&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/Nana7mij/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Nana7mij/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nana7mij&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :dart: Weekly Fuck The Code
 
