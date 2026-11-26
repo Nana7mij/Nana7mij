@@ -4,8 +4,6 @@
 </p> -->
 
 <p align="center">
-  <a href="https://space.bilibili.com/38518708">
-    </a>
     <a href="https://github.com/Nana7mij">
         <img alt="github"
             src="https://img.shields.io/github/stars/Nana7mij?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
@@ -34,6 +32,7 @@
 ```text
 Python   40 secs         █████████████████████████   66.67 %
 C++      20 secs         ░░░░░░░░░░░░░░░░░░░░░░░░░   33.33 %
+java     20 secs         ░░░░░░░░░░░░░░░░░░░░░░░░░   33.33 %
 ```
 
 <!--END_SECTION:waka-->
@@ -42,35 +41,16 @@ C++      20 secs         ░░░░░░░░░░░░░░░░░░�
 
 无
 
-名字：白袍风流梅子酒
+名字：Nycto
 
 Github：Nana7mij
 
-B站：雾隐花川夜丶
-
-B站房间:https://live.bilibili.com/9820209
+X (Twitter)：[@bpflmzj](https://x.com/bpflmzj)
 
 Don't be a programmer, Be a problem solver.
 
 公众号：暂无
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/Nana7mij)
-    - :email: [nqnqmi@outlook.com](mailto:nqnqmi@outlook.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/38518708)
-
-- :computer: PC/Mac:
-
-    - LENOVO R9000P 3070
-
-- :iphone: phone/iPhone:
-    - HuaWei Mate40 Pro 5G
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://nana7mij.github.io/) |
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-暂无
-<!--END_SECTION:activity-->
+  - :octocat: [Github@Nana7mij](https://github.com/Nana7mij)
+  - 🐦
