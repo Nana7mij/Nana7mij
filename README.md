@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nycto</h1>
-<h3 align="center">A bachelor's graduate from China preparing for a master's degree in Japan, aiming to become a full stack developer</h3>
+<h3 align="center">A bachelor's graduate from China preparing for a master's degree in Japan, and a Full Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
