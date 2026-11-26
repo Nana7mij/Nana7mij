@@ -17,7 +17,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nana7mij</h1>
+<h1 align="center">Hi 👋, I'm Nycto</h1>
 <h3 align="center">A college student from China, aiming to become a full stack developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
