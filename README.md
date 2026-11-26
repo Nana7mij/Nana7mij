@@ -88,7 +88,7 @@ Don't be a programmer, Be a problem solver.
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
-| [Blogs](https://nana7mij.github.io/) |
+| [Blogs](已弃用) |
 
 ### :zap: Recent Activity
 
