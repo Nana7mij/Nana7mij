@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Nana7mij"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <!--<img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">-->
 </p>
 
 <h1 align="center">Hi 👋, I'm Nycto</h1>
